@@ -1,0 +1,8 @@
+{
+  "name": "Khaalis Kitchen - Kitchen Essentials & Cooking Gadgets",
+  "description": "Production-ready online kitchen storefront for modern cookware, appliances, smart culinary gadgets, and storage essentials with Cash on Delivery across Pakistan and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
